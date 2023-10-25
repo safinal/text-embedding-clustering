@@ -5,6 +5,8 @@ The code is also published in Code Ocean platform. [link to access](https://code
 
 The paper is also shared on ResearchGate (Full-text available). [link to access](https://www.researchgate.net/publication/374150988_Elastic_Deep_Autoencoder_for_Text_Embedding_Clustering_by_an_Improved_Graph_Regularization)
 
+The paper is explained by Ali Nafisi in a youtube video [link to access](https://www.youtube.com/watch?v=Xa8IXJ3GtUI)
+
 ## Citation
 
 If you find this implementation or code useful in your work, please consider citing our paper:
