@@ -12,11 +12,13 @@ The paper is explained by Ali Nafisi in a youtube video [link to access](https:/
 If you find this implementation or code useful in your work, please consider citing our paper:
 
 ```bibtex
-@article{DaneshfarSoleymanbaigiNafisiYamini2023,
-  title = {Elastic Deep Autoencoder for Text Embedding Clustering by an Improved Graph Regularization},
-  author = {Fatemeh Daneshfar, Sayvan Soleymanbaigi, Ali Nafisi, Pedram Yamini},
-  journal = {Expert Systems with Applications},
-  year = {2023},
-  pages = {121780},
-  url = {https://www.sciencedirect.com/science/article/abs/pii/S0957417423022820},
+@article{daneshfar2024elastic,
+  title={Elastic deep autoencoder for text embedding clustering by an improved graph regularization},
+  author={Daneshfar, Fatemeh and Soleymanbaigi, Sayvan and Nafisi, Ali and Yamini, Pedram},
+  journal={Expert Systems with Applications},
+  volume={238},
+  pages={121780},
+  year={2024},
+  publisher={Elsevier}
 }
+```
